@@ -46,20 +46,4 @@ This project is part of the **Deloitte Job Simulation via Forage**, where I anal
 
 ## 🔗 **Links & Resources**  
 - **GitHub Repository:** [View Project](https://github.com/AsmaSheikh438/Deloitte-Data-Analytics)  
-- **LinkedIn Post:** *[Coming Soon]*  
 
----
-
-## 🎯 **Next Steps & Improvements**  
-🔹 Add **SQL-based queries** to analyze data deeper.  
-🔹 Perform **predictive modeling** on downtime patterns.  
-🔹 Deploy an **interactive dashboard** for real-time analytics.  
-
----
-
-### 👩‍💻 **Author:**  
-🚀 **Asma Sheikh** | Aspiring Data Scientist  
-
----
-
-This **README.md** will make your project **clear, professional, and appealing to recruiters**. Let me know if you want any modifications! 😊🚀  
